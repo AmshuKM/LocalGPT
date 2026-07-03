@@ -114,6 +114,10 @@ MODEL_NAME = "qwen3:8b"   # default model
 CHAT_DIRECTORY = "chats"
 ```
 
+## Acknowledgements
+
+Vibe-coded with the help of ChatGPT and Claude. 🤖
+
 ## License
 
-No license specified yet — add one if you plan to share or accept contributions.
+This project is licensed under the [MIT License](LICENSE).
